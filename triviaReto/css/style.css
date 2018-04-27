@@ -1,0 +1,133 @@
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	font-weight: 300;
+}
+
+body {
+	background-image: url("../img/fondoinicio1.png");
+}
+
+.trivia {
+	text-shadow:1px 1px 0 #444;
+}
+
+
+.cerrar {
+	background-image: url("../img/close.png");
+}
+
+.divClass, .welcomeClass, .playClass, .preguntaClass {
+	display:none;
+}
+
+ #showName {
+	text-align-last: center;
+	font-family: cursive;
+	font-size: 28px;
+	position: absolute;
+	  top: 60%;
+	  left: 50%;
+	  margin-left: -200px;
+	  margin-top: -100px;
+	  padding:35px;
+	  border-radius: 20%;
+	  opacity: 0.85;
+
+}
+
+#div1 {
+	text-align-last:center;
+	font-family: cursive;
+	font-size: 28px;
+	position: absolute;
+  top: 60%;
+  left: 50%;
+  margin-left: -200px;
+  margin-top: -100px;
+  padding:35px;
+  border-radius: 20%;
+  opacity: 0.85;
+}
+
+
+
+
+
+
+
+.contenedor1 {
+	text-align-last:left;
+	font-family: cursive;
+	font-size: 28px;
+	position: absolute;
+	top: 70%;
+	left: 50%;
+	margin-left: -200px;
+	margin-top: -100px;
+	padding:35px;
+	border-radius: 20%;
+	opacity: 0.85;
+
+}
+
+.contenedor2 {
+
+	font-family: cursive;
+	text-align-last:left;
+	font-size: 28px;
+	position: absolute;
+	top: 70%;
+	left: 50%;
+	margin-left: -200px;
+	margin-top: -100px;
+	padding:35px;
+	border-radius: 20%;
+	opacity: 0.85;
+
+}
+
+.contenedor3 {
+
+	font-family: cursive;
+	text-align-last:left;
+	font-size: 28px;
+	position: absolute;
+	top: 70%;
+	left: 50%;
+	margin-left: -200px;
+	margin-top: -100px;
+	padding:35px;
+	border-radius: 20%;
+	opacity: 0.85;
+	}
+
+	.contenedor4 {
+		text-align-last:left;
+		font-family: cursive;
+		text-align-last:left;
+		font-size: 28px;
+		position: absolute;
+		top: 70%;
+		left: 50%;
+		margin-left: -200px;
+		margin-top: -100px;
+		padding:35px;
+		border-radius: 20%;
+		opacity: 0.85;
+		}
+
+		.contenedor5 {
+			font-family: cursive;
+			text-align-last:left;
+			font-size: 28px;
+			position: absolute;
+			top: 70%;
+			left: 50%;
+			margin-left: -200px;
+			margin-top: -100px;
+			padding:35px;
+			border-radius: 20%;
+			opacity: 0.85;
+			}
